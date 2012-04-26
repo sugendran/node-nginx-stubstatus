@@ -1,0 +1,1 @@
+Parses the response from nginx stub status and makes it into a nice JS object. For usage please read the test.js file.

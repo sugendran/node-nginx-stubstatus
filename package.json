@@ -1,0 +1,9 @@
+{
+  "name": "nginx-stubstatus",
+  "version": "0.0.1",
+  "description": "node parser for the nginx stub status response (http://wiki.nginx.org/HttpStubStatusModule)",
+  "keywords": ["nginx","stats","parser"],
+  "author": "Sugendran Ganess",
+  "repository": "git://github.com/sugendran/node-nginx-stubstatus.git",
+  "main": "index.js"
+}
